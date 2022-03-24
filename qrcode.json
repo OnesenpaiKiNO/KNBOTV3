@@ -1,0 +1,7 @@
+{
+      clientID: 'K5JEk4k93/jEbzt6k+7aNA==',
+      serverToken: '1@I+cczvLZR4EbGnP29tS2qfzTyb0N4T9dde3oky6c2Gs3k5qin+7R52GUquL3HSPVYQRGI4qfFLe+Pw==',
+      clientToken: 'UiD8HdEnBpH7zyOe8nf7snfiPp1cfDLhJOQjt29JHMo=',
+      encKey: <Buffer 81 27 41 e9 16 6a 9b ed aa 40 25 4e 33 5b 39 2e 5b f8 11 f1 fa 68 19 33 3d a6 12 5f 96 35 a2 f1>,
+      macKey: <Buffer ab 10 83 a1 3b d7 a0 17 61 f6 a4 62 17 3e c4 53 50 57 20 12 80 00 f1 d4 bb 66 35 44 a7 00 97 1f>
+    }
